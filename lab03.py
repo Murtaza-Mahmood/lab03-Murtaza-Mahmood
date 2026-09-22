@@ -54,11 +54,11 @@ def letter_counts(text):
 
 def main():
     # Optional scratch space - use this to try your functions with sample values.
-     print(pig_latin("banana"))                    # ananabay
+    # print(pig_latin("banana"))                    # ananabay
     # print(word_lengths("the quick brown fox"))    # [3, 5, 5, 3]
     # print(reverse_words("the quick brown fox"))   # fox brown quick the
     # print(letter_counts("hello"))                 # {'h': 1, 'e': 1, 'l': 2, 'o': 1}
-    #pass
+    pass
 
 if __name__ == "__main__":
     main()
